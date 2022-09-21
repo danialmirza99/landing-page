@@ -1,0 +1,52 @@
+body{
+    background-color: #404040;
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+#top,
+#bottom{
+    color: red;
+    background-color: blue;
+    text-align: center;
+}
+
+#bottom{
+    text-align: center;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    position: fixed;
+}
+
+#contact{
+    color: firebrick;
+}
+
+#contact{
+    text-align: end;
+}
+
+#footer{
+    left: 0;
+    bottom: 0;
+    position: fixed;
+}
+
+
+img{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+section{
+    text-align: center;
+}
+
+#name,
+#email,
+#phone{
+    width: 300px;
+}
